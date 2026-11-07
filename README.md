@@ -1,19 +1,76 @@
-# React + Vite
+# TechPulse
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+### Stay Ahead with the Latest Technology News
 
-Currently, two official plugins are available:
+TechPulse is a modern and responsive technology news plateform built with react. It allows users to explore the latest technology articles, search for articles, and read detailed information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Browse latest technology articles.
+- Search articles.
+- View individual article details.
+- Responsive design for different screen sizes.
+- Reusable article card components.
+- Automatic API data fetching.
+- Loading states.
+- Articles images with fallback support.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## Technologies Used
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+- React.js
+- Vite
+- JavaScript
+- CSS3
+- React Router DOM
+- Hacker News API
 
-## Expanding the Oxlint configuration
+## API Integration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+TechPulse uses the Hacker News API to retrieve technology-related articles.
+
+API Documentations:
+https://github.com/HackerNews/API
+
+## Installation & Setup
+
+1. Clone the repository:
+
+    git clone YOUR_GITHUB_REPOSITORY_URL
+
+2. Navigate to the project folder:
+
+    cd TechPulse
+
+3. Install dependencies:
+
+    npm install
+
+4. Start the development server:
+
+    npm run dev
+
+5. Open the local URL provided by Vite.
+
+## Screenshots
+
+Projects screenshots will be added here.
+## 📸 Screenshots
+
+![TechPulse Home Page](./screenshots/home.png)
+![TechPulse Main-Home Page](./screenshots/main-home.png)
+![TechPulse Footer Page](./screenshots/footer.png)
+![TechPulse Articles Page](./screenshots/articles.png)
+![TechPulse About Page](./screenshots/about.png)
+
+
+## Future Improvements
+
+- Improve articles images handling.
+- Add more article categories.
+- Enhance user experience.
+
+## Author 
+
+Waseem Khan
+
+Software Engineering Students
