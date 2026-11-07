@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+body {
+    font-family: sans-serif;
+}
+
+.article-card a {
+   margin: 10px;
+   color: #2563eb;
+   text-decoration: none;
+}
+
+.article-card a:hover {
+    color: orangered;
+    text-decoration: underline;
+}
+
+
