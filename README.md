@@ -53,14 +53,11 @@ https://github.com/HackerNews/API
 
 ## Screenshots
 
-Projects screenshots will be added here.
-## 📸 Screenshots
-
-![TechPulse Home Page](./screenshots/home.png)
-![TechPulse Main-Home Page](./screenshots/main-home.png)
-![TechPulse Footer Page](./screenshots/footer.png)
-![TechPulse Articles Page](./screenshots/articles.png)
-![TechPulse About Page](./screenshots/about.png)
+![TechPulse Home Page](./public/screenshots/home.png)
+![TechPulse Main-Home Page](./public/screenshots/main-home.png)
+![TechPulse Footer Page](./public/screenshots/footer.png)
+![TechPulse Articles Page](./public/screenshots/articles.png)
+![TechPulse About Page](./public/screenshots/about.png)
 
 
 ## Future Improvements
